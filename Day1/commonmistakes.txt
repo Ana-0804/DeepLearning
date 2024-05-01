@@ -1,0 +1,2 @@
+1. read csv file (r"file_address")
+2.installing "mlxtend" package while usimg jupyter notebook , use !pip install mlxtend instead of pip install mlxtend.
